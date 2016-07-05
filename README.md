@@ -1,3 +1,59 @@
+## Tools
+
+### React - View Library
+
+https://facebook.github.io/react
+
+### JSX - JS syntax extension
+
+- right seperation of concerns - presentation & business logic
+- JS, HTML and CSS in one file helps to code quicker
+
+### Redux - predictable state container
+
+https://github.com/reactjs/redux  
+[Quick into talk](https://vimeo.com/167609765#t=150s)  
+[Best full training](https://egghead.io/series/getting-started-with-redux)  
+
+### fetch API with polyfill for IE - API client
+
+https://developer.mozilla.org/en/docs/Web/API/Fetch_API
+[polyfill](https://github.com/github/fetch)
+
+### react-router - routing
+
+https://github.com/reactjs/react-router
+
+### react-router-redux - sync react-router with Redux state
+
+https://github.com/reactjs/react-router-redux
+
+### redux-form - complete forms solution
+
+http://redux-form.com  
+[pros and cons of redux-form talk](https://www.youtube.com/watch?v=kkqArkYV4fw#t=33m)
+
+### Webpack & CommonJS - Module Bundler, build tool
+
+http://webpack.github.io/docs/what-is-webpack.html
+
+### React Hot Loader
+
+- no page refresh needed after code update!
+
+https://github.com/gaearon/react-hot-loader
+
+### Babel.js - JSX & ES6 transpiler
+
+https://babeljs.io
+
+### ESLint & lint-plugin-react - linting
+
+https://github.com/eslint/eslint  
+https://www.npmjs.com/package/eslint-plugin-react
+
+## React Boilerpalte
+
 <img src="https://raw.githubusercontent.com/mxstbr/react-boilerplate-brand/master/assets/banner-metal.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
